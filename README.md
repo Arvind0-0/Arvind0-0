@@ -9,7 +9,7 @@
 - 🚀 *Currently working on PYTHON*
 - 👨‍💻 *Ask me about Android application development*
 - 🤝 *Looking forward to collaborate on Open source projects*
-- 💬 *Feel free to reach me out for any help*
+- 💬 *Feel free to reach me out for any halp*
 - ⚡ *Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation*
 <br>
 
@@ -17,12 +17,12 @@
 
 <!-- streak and trophies -->
 <p align="center">
-  <img height="150" width="150" src="webp/left wing.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar0-0&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="webp/right wing.png">
+  <img height="150" width="150" src="webp/left_wing.png">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind0-0&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="webp/right_wing.png">
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Sagar0-0&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Arvind0-0&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Arvind0-0)
 <br>
 
 <hr>
@@ -61,19 +61,19 @@
 </h1>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arvind0-0&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind0-0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sagar0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arvind0-0&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 <hr>
 
 <!-- connect section -->
 <h1 align="center">
 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
-<img src= "GIF/the-matrix-has-you.gif" height="270px" width="370px" align="right">
+<img src= "GIF/the-matrix-TEMPhas-you.gif" height="270px" width="370px" align="right">
 </h1>
 
 <p align="center">
@@ -130,6 +130,6 @@
 <!-- outro -->
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/{Sagar0-0}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{Arvind0-0}/count.svg)
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
