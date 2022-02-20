@@ -7,7 +7,6 @@
 
 - 🤖 *AI Enthusiast*
 - 🚀 *Currently working on PYTHON*
-- 👨‍💻 *Ask me about Android application development*
 - 🤝 *Looking forward to collaborate on Open source projects*
 - 💬 *Feel free to reach me out for any halp*
 - ⚡ *Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation*
